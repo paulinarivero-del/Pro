@@ -1,0 +1,6 @@
+{
+  "name": "Recetario Interactivo - Paulina Rivero",
+  "description": "Recetario interactivo de Thermomix TM6 y TM7 por Paulina Rivero, Presentadora de Thermomix. Gestiona ingredientes, lista de compras y modo cocina directo desde tu navegador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
